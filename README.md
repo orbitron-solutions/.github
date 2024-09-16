@@ -12,7 +12,8 @@ Scalable Efficiency: Implementing systems that adapt and expand with your busine
 - Intelligent Workflows: Using AI to prioritize and manage tasks, ensuring nothing falls through the cracks.
 - Custom Productivity Environments: We design personalized digital workspaces that elevate individual and team performance.
 
-### Tailored Systems: Crafting operating environments optimized for your specific workflows and preferences.
+### Tailored Systems
+Crafting operating environments optimized for your specific workflows and preferences.
 - Integrated Tools: Bringing together applications and technologies in one cohesive platform for ease of use.
 - Enhanced Performance: Reducing friction in daily tasks to boost productivity and job satisfaction.
 - Curious about how we can redefine productivity for you? Let's connect.
